@@ -652,7 +652,7 @@ main {}
     display: inline-block;
     width: 14px;
     height: 14px;
-    background-image: url(/img/go.svg);
+    background-image: url(./img/go.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
